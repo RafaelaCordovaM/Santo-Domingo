@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #B4D6CD;
+}
+.inicio{
+    display: flex;
+    justify-content: center;
+  }
+.inicio img{
+width: 500px;
+  margin: 50px
+}
+.inicio p {
+  font-size: 50px;
+  font-weight: bold;
+  color: #A02334
+}
+.enlace{
+display: flex;
+  justify-content: center;
+font-size: 30px;
+  color:#A02334
+  font-weight: bold
+}
+.sub{
+  font-size:30px
+  font-weight: bold;
+  color: #A02334
+  margin-left: 30px;
+ }
+.conten1{ 
+display: flex;
+justify-content: center;
+align-items:center;
+}
+.conten1 img {
+  width: 500px;
+  margin-left: 50px
+  margin right: 50px;
+}
+.conten1
